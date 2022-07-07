@@ -16,5 +16,4 @@ class Calculator:
     def division(self) -> float:
         return self.a / self.b
 
-
         
