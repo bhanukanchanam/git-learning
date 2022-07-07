@@ -13,5 +13,7 @@ class Calculator:
     def multiplication(self) -> float:
         return self.a * self.b
 
+    def division(self) -> float:
+        return self.a / self.b
 
         
